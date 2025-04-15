@@ -4,6 +4,12 @@ A simple and responsive Task Management App that allows users to log in, add, vi
 
 ---
 
+## 🌐 Live Preview
+
+🔗 [Click here to try the app](https://7kll8f.csb.app/)
+
+---
+
 ## 🔍 Preview
 
 ### 🔐 Login Page  
@@ -41,4 +47,3 @@ A simple and responsive Task Management App that allows users to log in, add, vi
 ## ⚠️ Usage Notice
 
 This project is for **personal and educational purposes only**. Do **not use, copy, or redistribute** without explicit permission from the developer.
-
