@@ -12,7 +12,7 @@ A simple and responsive Task Management App that allows users to log in, add, vi
 
 ## 🔍 Preview
 
-### 🔐 Login Page  
+### 🔐 Login/Registration Page  
 ![Login/Registration Page](https://github.com/user-attachments/assets/07c4a5ba-9518-4c78-bd78-7b8ee9b236af)
 
 ### 📋 Task Manager  
